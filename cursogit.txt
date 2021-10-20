@@ -2,4 +2,4 @@ Se esta viendo el curso de git
 
 aprender cada cosa del curso
 
-fin del contexto del curso
+completar todas las pruebas del curso git.
