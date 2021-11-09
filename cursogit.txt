@@ -4,6 +4,8 @@ aprender cada cosa del curso
 
 experiment 1 
 
+Experiment 2
+
 fix-type 1
 
 fix-type 2
