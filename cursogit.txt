@@ -2,4 +2,6 @@ Se esta viendo el curso de git
 
 aprender cada cosa del curso
 
+fix-type 1
+
 completar todas las pruebas del curso git. Al terminar ver el curso de API
