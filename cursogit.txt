@@ -4,4 +4,6 @@ aprender cada cosa del curso
 
 fix-type 1
 
+fix-type 2
+
 completar todas las pruebas del curso git. Al terminar ver el curso de API
