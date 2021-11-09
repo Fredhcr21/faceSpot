@@ -2,6 +2,8 @@ Se esta viendo el curso de git
 
 aprender cada cosa del curso
 
+experiment 1 
+
 fix-type 1
 
 fix-type 2
