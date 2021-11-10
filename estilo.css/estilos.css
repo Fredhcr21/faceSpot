@@ -1,6 +1,6 @@
 body
 {
-        background: black;
+        background: rgb(75, 3, 3);
         color: rgb(14, 4, 4); 
         text-align: center;
         font-family: "Arial";
@@ -13,7 +13,7 @@ body
         background: rgb(54, 3, 3);
         box-shadow: 6px -4px 23px -4px rgb(202, 5, 5);
         color: wheat;
-        font-weight: bold;
+        font-weight: bold;      
         margin: 0;
         padding: 0.5em 0 0.5em 2em;
 }
