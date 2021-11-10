@@ -13,5 +13,6 @@ Un blog bastante increible basado en el curso de git y github
 * Curso de desarrollador web
 * Cursos por el mismo creador de platzi
 * Estos cursos es multiplataforma se puede ver desde celulares hasta computadoras, laptops
+* Platzi es muy bueno para aprender de lo que quieres ser de grande o de la carrera que tu quieres tener
 
 Como era de esperarse en el curso hay muchas cosas bastante importantes de aprender **Este README es algo complejo de aprender**, 
