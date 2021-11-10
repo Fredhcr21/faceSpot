@@ -11,5 +11,6 @@ Un blog bastante increible basado en el curso de git y github
 * Curso de programacion 
 * Curso de software
 * Curso de desarrollador web
+* Cursos por el mismo creador de platzi
 
 Como era de esperarse en el curso hay muchas cosas bastante importantes de aprender **Este README es algo complejo de aprender**, 
