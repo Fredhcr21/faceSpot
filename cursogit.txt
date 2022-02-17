@@ -2,4 +2,12 @@ Se esta viendo el curso de git
 
 aprender cada cosa del curso
 
+experiment 1 
+
+Experiment 2
+
+fix-type 1
+
+fix-type 2
+
 completar todas las pruebas del curso git. Al terminar ver el curso de API
